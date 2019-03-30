@@ -1,0 +1,12 @@
+E:\项目\Demo\UpdateOffice\UpdateOffice\bin\Debug\UpdateOffice.exe.config
+E:\项目\Demo\UpdateOffice\UpdateOffice\bin\Debug\UpdateOffice.exe
+E:\项目\Demo\UpdateOffice\UpdateOffice\bin\Debug\UpdateOffice.pdb
+E:\项目\Demo\UpdateOffice\UpdateOffice\bin\Debug\DocumentFormat.OpenXml.xml
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.csprojAssemblyReference.cache
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.Form1.resources
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.Properties.Resources.resources
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.csproj.GenerateResource.cache
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.csproj.CoreCompileInputs.cache
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.csproj.CopyComplete
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.exe
+E:\项目\Demo\UpdateOffice\UpdateOffice\obj\Debug\UpdateOffice.pdb
